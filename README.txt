@@ -1,4 +1,4 @@
-I just made this ASCII art ZigZag program in C using slashes \n
+I just made this ASCII art ZigZag program in C using slashes 
 \
 /  
 \
